@@ -1,0 +1,1 @@
+This error occurs when using the `FlatList` component in React Native with a large dataset. The error message is usually something like "Maximum call stack size exceeded". This happens because the FlatList tries to render all items at once, causing a stack overflow. 
